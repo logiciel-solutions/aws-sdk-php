@@ -4,6 +4,7 @@
     "description": "This project is a fork from AWS SDK repo to change the Guzzle Version they've been using",
     "keywords": ["logiciel","aws","amazon","sdk","s3","ec2","dynamodb","cloud","glacier","guzzle","guzzle issue"],
     "type": "library",
+    "version": "1.0.0"
     "license": "Apache-2.0",
     "authors": [
         {
