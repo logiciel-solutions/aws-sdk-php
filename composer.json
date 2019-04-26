@@ -1,5 +1,5 @@
 {
-    "name": "logiciel-solutions/aws-sdk-php",
+    "name": "aws/aws-sdk-php",
     "homepage": "https://github.com/logiciel-solutions/aws-sdk-php",
     "description": "This project is a fork from AWS SDK repo to change the Guzzle Version they've been using",
     "keywords": ["logiciel","aws","amazon","sdk","s3","ec2","dynamodb","cloud","glacier","guzzle","guzzle issue"],
