@@ -1,14 +1,14 @@
 {
-    "name": "aws/aws-sdk-php",
-    "homepage": "http://aws.amazon.com/sdkforphp",
-    "description": "AWS SDK for PHP - Use Amazon Web Services in your PHP project",
-    "keywords": ["aws","amazon","sdk","s3","ec2","dynamodb","cloud","glacier"],
+    "name": "logiciel-solutions/aws-sdk-php",
+    "homepage": "https://github.com/logiciel-solutions/aws-sdk-php",
+    "description": "This project is a fork from AWS SDK repo to change the Guzzle Version they've been using",
+    "keywords": ["logiciel","aws","amazon","sdk","s3","ec2","dynamodb","cloud","glacier","guzzle","guzzle issue",],
     "type": "library",
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "Amazon Web Services",
-            "homepage": "http://aws.amazon.com"
+            "name": "Logiciel Solutions",
+            "homepage": "https://logicielsolutions.co.in"
         }
     ],
     "support": {
